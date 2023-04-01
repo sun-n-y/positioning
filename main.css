@@ -1,1 +1,13 @@
-/* Positioning:  */
+/* Positioning: fixed  */
+
+span {
+  font-size: 2rem;
+  background-color: orchid;
+  color: white;
+  position: relative;
+  display: block;
+  width: 100%;
+  top: 110px;
+  right: 0;
+  position: sticky;
+}
