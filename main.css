@@ -1,1 +1,29 @@
-/* Positioning:  */
+/* Positioning: create button badge  */
+
+body {
+  background: radial-gradient(#0288d1, #01579b);
+  height: 100vh;
+}
+
+/* 
+.btn {
+  padding: 10px;
+  position: relative;
+  top: 500px;
+  left: 500px;
+  display: inline-block;
+}
+
+span {
+  height: 20px;
+  width: 20px;
+  background-color: green;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  color: white;
+  border: 2px solid red;
+  position: absolute;
+  right: 0;
+  top: 0;
+} */
