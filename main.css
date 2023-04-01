@@ -1,1 +1,16 @@
 /* Positioning: absolute */
+
+.box {
+  background-color: olivedrab;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: relative;
+}
+
+.box span {
+  color: red;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
